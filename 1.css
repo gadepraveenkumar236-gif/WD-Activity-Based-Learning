@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background-color: #e0f7fa;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
+
+.box {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid teal;
+    border-radius: 10px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+h3 {
+    color: red;
+}
